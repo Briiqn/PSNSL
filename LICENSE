@@ -1,0 +1,192 @@
+Politically and Socially Neutral Software License (PSNSL) v1.0
+
+NOTICE  
+THIS IS A LEGALLY BINDING DOCUMENT. READ IT CAREFULLY BEFORE USING, MODIFYING, OR DISTRIBUTING THE SOFTWARE.
+
+0. Preamble  
+WHEREAS, this License is designed to promote the development and distribution of free and open-source software while maintaining strict neutrality regarding political and social matters;  
+WHEREAS, the intent is to create an environment where software development remains focused on technical merit and functionality without becoming a platform for advocacy;  
+NOW, THEREFORE, by exercising any rights granted herein, you accept and agree to be bound by the terms of this License.
+
+1. Definitions  
+For the purposes of this License, the following terms shall have the meanings defined herein:
+
+1.1. "The Software" includes:  
+- All source code files  
+- Object code and compiled versions  
+- Documentation and technical specifications  
+- Configuration files and build scripts  
+- Associated assets and resources  
+- Updates, modifications, or enhancements  
+
+1.2. "Restricted Content" includes:  
+(a) Political Content:  
+- Advocacy for or against political parties, movements, or ideologies  
+- Electoral campaign materials or messaging  
+- Legislative or policy advocacy  
+- Political organizing tools or resources  
+- Promotion of specific governance models  
+- Materials supporting/opposing political candidates  
+- Political symbols, slogans, or coded references  
+- Content influencing political discourse or outcomes  
+
+(b) Social Advocacy Content:  
+- Advocacy for or against social movements/causes  
+- Promotion of specific social ideologies or worldviews  
+- Materials advancing social justice initiatives  
+- Identity-based advocacy or messaging  
+- Cultural or social reform proposals  
+- Lifestyle or behavioral advocacy  
+- Promotion of specific moral or ethical positions  
+- Content influencing social attitudes or behaviors  
+
+1.3. "Derivative Works" are works that:  
+- Contain, incorporate, or are based on the Software  
+- Modify, transform, or adapt the Software  
+- Combine the Software with other software/content  
+- Extend or enhance the Software’s functionality  
+
+1.4. "Distribution" means making the Software available to third parties, including:  
+- Direct transfer of copies  
+- Hosting for download  
+- Software-as-a-Service implementations  
+- Integration into other products or services  
+
+2. Grant of Rights  
+2.1. Subject to strict compliance with these terms, each Contributor grants you a worldwide, royalty-free, non-exclusive, perpetual (subject to Section 8) license to:  
+- Use, reproduce, and execute the Software  
+- Prepare and create Derivative Works  
+- Publicly display and perform the Software  
+- Distribute the Software and Derivative Works  
+- Sublicense these rights  
+
+2.2. Patent Grant: Each Contributor grants a non-exclusive, worldwide, royalty-free patent license under its Licensed Patents to make, use, sell, offer for sale, import, and otherwise transfer the Software.
+
+3. Compatibility Requirements  
+3.1. The Software may only be combined, linked to, or used with software licensed under:  
+- This license (PSNSL v1.0)  
+- GNU General Public License v3.0  
+
+3.2. All Derivative Works must be released under either:  
+- This license (PSNSL v1.0)  
+- GNU General Public License v3.0  
+
+4. Neutrality Requirements  
+4.1. Prohibited Uses:  
+The Software and any Derivative Works shall not:  
+- Contain, promote, or facilitate any Restricted Content  
+- Serve as a platform for political or social advocacy  
+- Include functionality for advancing political or social causes  
+- Be branded with associations to political or social movements  
+- Be integrated into advocacy-focused platforms  
+- Include default configurations promoting particular viewpoints  
+- Contain documentation that advocates specific positions  
+- Enforce community guidelines favoring specific ideologies  
+
+4.2. Scope of Restrictions:  
+These prohibitions apply to:  
+- Source code and comments  
+- User interface elements  
+- Documentation and tutorials  
+- Sample data and examples  
+- Project name and branding  
+- Marketing materials  
+- Website content  
+- Public communications  
+- Support channels  
+- Community interactions  
+- Associated resources/materials  
+
+4.3. Permitted Uses:  
+The Software may be used for:  
+- Technical and scientific purposes  
+- Business operations and commerce  
+- Educational and academic purposes  
+- Entertainment and personal use  
+- Data processing and analysis  
+- System administration  
+- Security and testing  
+- Performance optimization  
+- Any other politically and socially neutral purpose  
+
+4.4. Violation Consequences:  
+Upon violation of any Neutrality Requirement:  
+- This License shall immediately and automatically terminate  
+- All granted rights shall cease  
+- The Software and Derivative Works shall enter the public domain  
+- All copyright/proprietary claims shall become void  
+- All restrictions on use or distribution shall be lifted  
+
+5. Distribution Requirements  
+5.1. Mandatory Inclusions:  
+Each distribution must include:  
+- Complete, machine-readable source code  
+- This License text, unmodified and in its entirety  
+- Original copyright and attribution notices  
+- Comprehensive documentation of modifications  
+- Clear marking of modified files  
+- Contact information for responsible parties  
+
+5.2. Documentation Requirements:  
+All distributions must provide:  
+- Installation procedures  
+- Configuration instructions  
+- System requirements  
+- API documentation  
+- Known limitations  
+- Troubleshooting guides  
+
+5.3. Notice Requirements:  
+Distributions must prominently display:  
+- The terms of this License  
+- Neutrality Requirements  
+- Attribution to original authors  
+- Modification status/history  
+- Compliance declarations  
+
+6. Warranties and Disclaimers  
+6.1. No Warranty: THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.  
+
+6.2. Limitation of Liability: IN NO EVENT SHALL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING OUT OF THE SOFTWARE OR ITS USE.  
+
+7. Contribution Requirements  
+7.1. Contributions for inclusion in the Software shall be subject to this License.  
+7.2. Contributions must comply with the Neutrality Requirements.  
+
+8. Termination  
+8.1. Automatic Termination: This License terminates automatically upon:  
+- Violation of Neutrality Requirements  
+- Breach of any License term  
+- Patent litigation against the Software  
+
+8.2. Effect of Termination:  
+Upon termination:  
+- All granted rights cease immediately  
+- Use and distribution must stop  
+- Copies must be destroyed  
+- Derivative Works must cease distribution  
+
+8.3. Survival:  
+Sections on Definitions, Warranties and Disclaimers, Effect of Termination, and Governing Law survive termination.  
+
+9. General Provisions  
+9.1. Severability:  
+If any provision is held invalid, it shall be reformed as necessary, and the remainder shall remain effective.  
+
+9.2. No Waiver:  
+No provision is waived unless specified in writing; failure to enforce does not waive future enforcement.  
+
+9.3. Entire Agreement:  
+This License constitutes the entire agreement.  
+
+9.4. Governing Law:  
+This License is governed by the laws of the original licensor's jurisdiction.  
+
+10. Declaration of Compliance  
+By using, modifying, or distributing the Software, you declare that:  
+- You have read and understood this License  
+- You agree to be bound by its terms  
+- You will maintain compliance with all requirements  
+- You will respect the Neutrality Requirements  
+
+End of License
